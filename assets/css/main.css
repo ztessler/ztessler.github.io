@@ -28,7 +28,7 @@ font-family: 'Inter', sans-serif;}
 input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill {background-color: transparent;background-image: none;color:#000;}
 /* 1.2 Typography */
 h1,h2,h3,h4,h5,h6 {font-family: 'Inter', sans-serif;}
-figure{ margin: 0 }
+figure{ margin: 0; text-align: center }
 svg,img { max-width: 80%; height: auto; }
 
 /*-----------------------------------------------------------------
@@ -49,7 +49,7 @@ svg,img { max-width: 80%; height: auto; }
 /*-----------------------------------------------------------------
   2. >>> Banner Style
 ----------------------------------------------------------------*/
-.ds-banner section{ padding-left: 70px; padding-right: 100px; }
+.ds-banner section{ padding-left: 70px; padding-right: 70px; }
 .ds-banner section h1 span{ display: block; text-transform: uppercase; letter-spacing: 1px;  font-weight: 500; font-size: 16px; padding-bottom: 30px; }
 .ds-banner section h1{ font-weight: 600; font-size: 32px; line-height: 40px; color: #000; }
 .ds-banner section h2{ font-weight: 300; font-size: 24px; line-height: 30px; color: #000; }
